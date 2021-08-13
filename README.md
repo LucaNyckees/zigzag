@@ -20,42 +20,23 @@ In this project we aim at providing a tool to compute levelset zigzag persistenc
 Project Organization
 ------------
 
-    ├── LICENSE
-    ├── Makefile           <-- Makefile facilitating multiple commands
     ├── README.md          <- Top-level README.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for ML/modelling.
-    │   └── raw            <- The original, immutable data dump. Do not modify these datas, as they contribute to the experiment reproducibility
-    │
-    ├── docs               <- Future Sphinx documentation
-    │
-    ├── models             <- Trained and serialized (saved) models
     │
     ├── notebooks          <- Jupyter notebooks.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── articles           <- Related articles and useful references.
     │
-    ├── reports            <- Future report (Latex, pdf)
-    │   └── figures        <- Generated graphics and figures to be used in reporting
+    ├── reports            <- Notes and report (Latex, pdf).
+    │   └── figures        <- Optional graphics and figures to be included in the report.
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment.
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    └── src                <- Source code for use in this project.
-        ├── __init__.py    <- Makes src a Python package (and not just a module)
-        │
-        ├── data           <- Scripts to download or generate data
-        │
-        ├── features       <- Scripts to turn raw data into features for modeling
-        │   └── build_features.py
-        │
-        ├── models         <- Scripts to train models and use trained models to make
-        │
-        └── visualization  <- Scripts to create exploratory and results oriented visualizations
+    ├── requirements.txt   <- Requirements file for reproducibility.
+    └── src                <- Project source code.
+   
 --------
 
-## Useful References
+## Related Articles and Useful References
 
-[1](https://arxiv.org/abs/0812.0197) - sddd
+[[1]](https://arxiv.org/abs/0812.0197) - Zigzag Persistence,
+[[2]](https://arxiv.org/abs/2105.00518) - Computing Optimal Persitent Cycles for Levelset Zigzag on Manifold-like Complexes,
+[[3]](https://arxiv.org/abs/0911.2142) - Quantifying Transversality by Measuring the Robustness of Intersections,
+[[4]](https://www.mrzv.org/publications/robustness-levelsets/esa/) - The Robustness of Level Sets,
