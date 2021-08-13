@@ -1,6 +1,8 @@
 
 # Levelset Zigzag Persistent Homology Computations
 
+This project is supervised by Nicolas Berkouk and Kathryn Hess Bellwald, from the [Laboratory of Topology and Neuroscience at EPFL](https://www.epfl.ch/labs/hessbellwald-lab/).
+
 ## Table of Content
 
 * [People](#people)
