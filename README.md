@@ -22,8 +22,8 @@ src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" />
 
 * [People](#people)
 * [Description](#description)
-* [Project Organization](#project-organization)
-* [Related Articles and Useful References](#refs)
+* [Project Organization 🗂](#project-organization)
+* [Related Articles and Useful References 🔍](#refs)
 * [Interesting Material](#material)
 
 ## People
