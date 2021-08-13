@@ -61,6 +61,6 @@ Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.o
 
 ## Interesting Material
 
-+ [Tutorial on Python bindings](https://realpython.com/python-bindings-overview/)\
++ [Tutorial on Python bindings](https://realpython.com/python-bindings-overview/)
 + [Video lectures on topological data analysis by Henry Adams](https://www.math.colostate.edu/~adams/teaching/dsci475spr2021/)
 
