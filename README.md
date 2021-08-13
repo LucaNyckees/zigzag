@@ -39,4 +39,4 @@ Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.o
 [[1]](https://arxiv.org/abs/0812.0197) - Zigzag Persistence\
 [[2]](https://arxiv.org/abs/2105.00518) - Computing Optimal Persitent Cycles for Levelset Zigzag on Manifold-like Complexes\
 [[3]](https://arxiv.org/abs/0911.2142) - Quantifying Transversality by Measuring the Robustness of Intersections\
-[[4]](https://www.mrzv.org/publications/robustness-levelsets/esa/) - The Robustness of Level Sets\
+[[4]](https://www.mrzv.org/publications/robustness-levelsets/esa/) - The Robustness of Level Sets
