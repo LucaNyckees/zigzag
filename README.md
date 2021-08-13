@@ -4,8 +4,8 @@
 ## Table of Content
 
 * [People](#people)
-* [Project Organization](#project-organization)
 * [Description](#description)
+* [Project Organization](#project-organization)
 * [Related Articles and Useful References](#refs)
 
 ## People
