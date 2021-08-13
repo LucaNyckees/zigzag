@@ -28,11 +28,8 @@ src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" />
 
 ## People
 
-Nicolas Berkouk
-+ [EPFL profile](https://people.epfl.ch/nicolas.berkouk)
-+ [Personal site](https://nberkouk.github.io/)<br />
-Luca Nyckees
-+ [EPFL profile](https://people.epfl.ch/luca.nyckees)
+Nicolas Berkouk : [EPFL profile](https://people.epfl.ch/nicolas.berkouk), [Personal site](https://nberkouk.github.io/)<br />
+Luca Nyckees : [EPFL profile](https://people.epfl.ch/luca.nyckees)
 
 ## Description
 
