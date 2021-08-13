@@ -10,7 +10,10 @@ This project is supervised by Kathryn Hess Bellwald, from the [Laboratory of Top
 <img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/0fd2667849df9f18b863a2fc9fdf275d28c0e69bae657009213dbbba08295d02/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d707974686f6e2f6d61737465722f696d672f636972636c652d707974686f6e2e7376673f73616e6974697a653d74727565" />
 
 <img align="left" alt="C++" width="26px" 
-src="https://pluralsight.imgix.net/paths/path-icons/c-plus-plus-93c7ddd5cc.png" />
+src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+
+<img align="left" alt="Overleaf" width="26px" 
+src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" />
 
 <br />
 <br />
