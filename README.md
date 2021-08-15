@@ -35,7 +35,7 @@ Luca Nyckees : [EPFL profile](https://people.epfl.ch/luca.nyckees)
 
 Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.org/abs/0812.0197), offers a way to better understand the persistence of topological features observed in a family of spaces or pointclouds by generalizing the setting of persistent homology. In this project, we aim at providing a tool to compute levelset zigzag persistence. The idea is to deduce the results from computations on extended persistence, which are already implemented in C++. To this end, we make use of Python bindings.
 
-<img width="436" alt="figure" src="https://www.semanticscholar.org/paper/Zigzag-Persistence-Carlsson-Silva/a074952c2bd1d2166903373437493a44f1667eb0/figure/1">
+<img width="436" alt="figure" src="https://github.com/LucaNyckees/zigzag/blob/main/figures/11-Figure2-1.png">
 
 ## Project Organization
 ------------
