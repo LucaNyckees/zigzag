@@ -40,17 +40,18 @@ Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.o
 ## Project Organization
 ------------
 
-    ├── README.md          <- Top-level README.
+    ├── README.md          -- Top-level README.
     │
-    ├── notebooks          <- Jupyter notebooks.
+    ├── notebooks          -- Jupyter notebooks.
     │
-    ├── articles           <- Related articles and useful references.
+    ├── articles           -- Related articles and useful references.
     │
-    ├── reports            <- Notes and report (Latex, pdf).
-    │   └── figures        <- Optional graphics and figures to be included in the report.
+    ├── reports            -- Notes and report (Latex, pdf).
+    │ 
+    ├── figures            -- Optional graphics and figures to be included in the report.
     │
-    ├── requirements.txt   <- Requirements file for reproducibility.
-    └── src                <- Project source code.
+    ├── requirements.txt   -- Requirements file for reproducibility.
+    └── src                -- Project source code.
    
 --------
 
