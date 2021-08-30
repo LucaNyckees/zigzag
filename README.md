@@ -37,6 +37,10 @@ Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.o
 
 <img width="436" alt="figure" src="https://github.com/LucaNyckees/zigzag/blob/main/figures/11-Figure2-1.png">
 
+A bijection between the extended persistence barcode and the zigzag barcode can be established via so-called "diamond moves", involving the presence of relative Mayer-Vietoris diamonds, illustrated in the animation below.
+
+<img width="436" alt="figure" src="https://github.com/LucaNyckees/zigzag/blob/main/figures/pyramid_zigzag.gif">
+
 ## Project Organization
 ------------
 
