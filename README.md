@@ -35,7 +35,7 @@ Luca Nyckees : [EPFL profile](https://people.epfl.ch/luca.nyckees)
 
 Zigzag persistence, as introduced by Carlsson and De Silva [[1]](https://arxiv.org/abs/0812.0197), offers a way to better understand the persistence of topological features observed in a family of spaces or pointclouds by generalizing the setting of persistent homology. In this project, we aim at providing a tool to compute levelset zigzag persistence. The idea is to deduce the results from computations on extended persistence, which are already implemented in C++. To this end, we make use of Python bindings.
 
-<img width="550" alt="figure" src="https://github.com/LucaNyckees/zigzag/blob/main/figures/11-Figure2-1.png">
+<img width="450" alt="figure" src="https://github.com/LucaNyckees/zigzag/blob/main/figures/11-Figure2-1.png">
 
 A bijection between the extended persistence barcode and the zigzag barcode can be established via so-called "diamond moves", involving the presence of relative Mayer-Vietoris diamonds, illustrated in the animation below. The precise statement is formulated as the *Strong Diamond Principle* - sometimes called the *Pyramid Theorem* - in [[1]](https://arxiv.org/abs/0812.0197). The whole process relies on consecutive transformations between two sequences
 
