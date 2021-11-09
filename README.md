@@ -23,6 +23,7 @@ src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" />
 * [People](#people)
 * [Description](#description)
 * [Project Organization](#project-organization)
+* [Streamlit Web App](#streamlit)
 * [Related Articles and Useful References](#refs)
 * [Interesting Material 🔍](#material)
 
