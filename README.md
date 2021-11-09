@@ -59,6 +59,25 @@ A bijection between the extended persistence barcode and the zigzag barcode can 
    
 --------
 
+## Streamlit Web App
+
+You can launch the Streamlit web application with the following commands. First, open a shell/terminal and go to the directory in which you saved the project - for example :
+
+```
+cd Desktop/levelset/zigzag
+```
+Then, go directly to the source code with 
+
+```
+cd src
+```
+
+Finally, type the command below in your shell and enjoy the app!
+```
+streamlit run st_app.py
+```
+
+
 ## Related Articles and Useful References
 
 [[1]](https://arxiv.org/abs/0812.0197) - Zigzag Persistence\
