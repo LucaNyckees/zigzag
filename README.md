@@ -77,7 +77,10 @@ Finally, type the command below in your shell and enjoy the app!
 ```
 streamlit run st_app.py
 ```
-
+For an original theme configuration, you may replace the last command with this one :
+```
+streamlit run st_app.py --theme.primaryColor="#3271e2" --theme.backgroundColor="#357dc5" --theme.secondaryBackgroundColor="#68708c" --theme.textColor="#dadde6"
+```
 
 ## Related Articles and Useful References
 
