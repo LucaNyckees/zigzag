@@ -23,6 +23,7 @@ src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP.png" />
 * [People](#people)
 * [Description](#description)
 * [Project Organization](#project-organization)
+* [Streamlit Web App](#streamlit)
 * [Related Articles and Useful References](#refs)
 * [Interesting Material 🔍](#material)
 
@@ -58,6 +59,28 @@ A bijection between the extended persistence barcode and the zigzag barcode can 
     └── src                -- Project source code.
    
 --------
+
+## Streamlit Web App
+
+You can launch the Streamlit web application with the following commands. First, open a shell/terminal and go to the directory in which you saved the project - for example :
+
+```
+cd Desktop/levelset/zigzag
+```
+Then, go directly to the source code with 
+
+```
+cd src
+```
+
+Finally, type the command below in your shell and enjoy the app!
+```
+streamlit run st_app.py
+```
+For an original theme configuration, you may replace the last command with this one :
+```
+streamlit run st_app.py --theme.primaryColor="#3271e2" --theme.backgroundColor="#357dc5" --theme.secondaryBackgroundColor="#68708c" --theme.textColor="#dadde6"
+```
 
 ## Related Articles and Useful References
 
