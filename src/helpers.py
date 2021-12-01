@@ -289,17 +289,11 @@ def threshold(G,t):
     
     H = G.copy()
     
-    print("copy of graph done")
-    
     for e in G.edges.data():
         
         if e[2]['weight'] > t:
-            
-            print("into threshold condition")
         
             H.remove_edge(*e[:2])
-            
-            print("edge successfully removed")
             
     nt = Network("340px", "860px",notebook=True)
     nt.from_nx(H)
